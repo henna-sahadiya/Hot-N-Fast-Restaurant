@@ -1,0 +1,9 @@
+
+.navbar{
+    background-size: cover;
+   background-color: rgba(246, 250, 249, 0.9);
+    position: relative;
+    z-index: 9999;
+    
+}
+
